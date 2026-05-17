@@ -1,16 +1,35 @@
-## Hi there 👋
+# Ram Nezer
 
-<!--
-**ramnezer/ramnezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux security developer focused on defensive tooling, practical security research, and open-source hardening projects.
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux security tooling
+- Defensive automation
+- Malware and log analysis
+- Security hardening
+- CTF / authorized lab research
+
+## Main Projects
+
+### Herodium
+
+Developer-oriented Linux security framework for building and testing broader defensive tooling.
+
+[Repository](https://github.com/ramnezer/herodium)
+
+### CopyFail Hotfix
+
+A small defensive Linux hotfix script for mitigating vulnerable `algif_aead` exposure until an official vendor kernel is installed.
+
+[Repository](https://github.com/ramnezer/copyfail-hotfix)
+
+## Links
+
+[![GitHub](https://img.shields.io/badge/GitHub-ramnezer-181717?style=for-the-badge&logo=github)](https://github.com/ramnezer)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019c608f-79bd-710f-b595-83bd8cdded58)
+
+## Contact
+
+- Location: Israel
+- Email: ramnezer1001@gmail.com
