@@ -8,6 +8,8 @@ Linux security developer focused on defensive tooling, practical security resear
 - Defensive automation
 - Malware and log analysis
 - Security hardening
+- Evidence-based threat detection
+- Local-first security analysis
 - CTF / authorized lab research
 
 ## Main Projects
