@@ -20,12 +20,6 @@ Developer-oriented Linux security framework for building and testing broader def
 
 [Repository](https://github.com/ramnezer/herodium)
 
-### CopyFail Hotfix
-
-A small defensive Linux hotfix script for mitigating vulnerable `algif_aead` exposure until an official vendor kernel is installed.
-
-[Repository](https://github.com/ramnezer/copyfail-hotfix)
-
 ## Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-ramnezer-181717?style=for-the-badge&logo=github)](https://github.com/ramnezer)
