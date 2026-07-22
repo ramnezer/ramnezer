@@ -26,9 +26,9 @@ Developer-oriented Linux security framework for building and testing broader def
 
 ## Hack The Box Achievements
 
-- **Grandmaster III** - Grade 3, the highest Grandmaster grade on Hack The Box.
-- **[Omniscient](https://labs.hackthebox.com/achievement/badge/2179306/219)** - Advanced Hack The Box achievement demonstrating broad technical capability across security challenges.
-- **[Global Top 10](https://labs.hackthebox.com/achievement/badge/2179306/2)** - Reached the worldwide Hack The Box Top 10 ranking.
+- **[Grandmaster III](https://profile.hackthebox.com/profile/019c608f-79bd-710f-b595-83bd8cdded58)** 
+- **[Omniscient](https://labs.hackthebox.com/achievement/badge/2179306/219)**
+- **[Global Top 10](https://labs.hackthebox.com/achievement/badge/2179306/2)**
 
 These achievements reflect strong offensive security and problem-solving experience developed in authorized lab environments. My primary professional direction remains defensive security, Linux hardening, security automation, and open-source security development.
 
