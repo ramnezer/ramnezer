@@ -29,6 +29,7 @@ Developer-oriented Linux security framework for building and testing broader def
 - **[Grandmaster III](https://profile.hackthebox.com/profile/019c608f-79bd-710f-b595-83bd8cdded58)** 
 - **[Omniscient](https://labs.hackthebox.com/achievement/badge/2179306/219)**
 - **[Global Top 10](https://labs.hackthebox.com/achievement/badge/2179306/2)**
+- **[Completionist](https://labs.hackthebox.com/achievement/badge/2179306/22)**
 
 These achievements reflect strong offensive security and problem-solving experience developed in authorized lab environments. My primary professional direction remains defensive security, Linux hardening, security automation, and open-source security development.
 
