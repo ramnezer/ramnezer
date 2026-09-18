@@ -24,13 +24,6 @@ Developer-oriented Linux security framework for building and testing broader def
 [![GitHub](https://img.shields.io/badge/GitHub-ramnezer-181717?style=for-the-badge&logo=github)](https://github.com/ramnezer)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019c608f-79bd-710f-b595-83bd8cdded58)
 
-## Hack The Box Achievements
-
-- **[Grandmaster III](https://profile.hackthebox.com/profile/019c608f-79bd-710f-b595-83bd8cdded58)** 
-- **[Omniscient](https://labs.hackthebox.com/achievement/badge/2179306/219)**
-- **[Global Top 10](https://labs.hackthebox.com/achievement/badge/2179306/2)**
-- **[Completionist](https://labs.hackthebox.com/achievement/badge/2179306/22)**
-
 
 ## Contact
 
