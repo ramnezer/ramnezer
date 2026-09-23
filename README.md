@@ -1,16 +1,5 @@
 # Ram Nezer
 
-Linux security developer specializing in defensive tooling, open-source security engineering, system hardening, and practical threat research.
-
-## Focus
-
-- Linux security tooling
-- Defensive automation
-- Malware and log analysis
-- Security hardening
-- Evidence-based threat detection
-- CTF / authorized lab research
-
 ## Main Projects
 
 ### Herodium
