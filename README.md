@@ -1,5 +1,3 @@
-# Ram Nezer
-
 ## Main Projects
 
 ### Herodium
