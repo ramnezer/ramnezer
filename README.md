@@ -15,7 +15,8 @@ Developer-oriented Linux security framework for building and testing broader def
 
 [Repository](https://github.com/ramnezer/vramz)
 
-VRAMZ is an experimental C++ userspace runtime for NVIDIA GPUs
+VRAMZ is an experimental C++ userspace runtime for NVIDIA GPUs.
+It explores keeping colder application data compressed in GPU memory.
 #
 #
 ## Links
